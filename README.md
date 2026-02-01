@@ -1,37 +1,43 @@
-## Hi 👋 I'm Deepak
+## 🌟 About Me
 
-🎓 Computer Science Engineering student (VTU)  
-🔐 Passionate about Cyber Security, Artificial Intelligence & Web Development  
-💻 I enjoy building practical, future-ready projects with real-world impact  
-
----
-
-### 🛠 Tech Stack
-- **Languages:** Python, PHP, JavaScript   
-- **Web:** HTML5, CSS3, Backend Development  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, GitHub, Ethical tools
+👋 Hi, I'm **Deepak P S**  
+🚀 I’m passionate about learning, building, and solving real-world problems  
+🎓 Computer Science Engineering Student (VTU)  
+🔐 Interested in Cyber Security, Web Development, AI & Future Tech  
+📫 Reach me at: **deepakkrishnark@gmail.com**
 
 ---
 
-### 📂 Featured Projects
-- 🔐 Security-based Projects  
-- 🧠 Hylexcrypt - TU2050 (Python)  
-- 🌐 Web Applications with Backend Logic  
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-p-s)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](YOUR_LINK)
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:deepakkrishnark@gmail.com)
 
 ---
 
-### 📚 Currently Exploring
-- Advanced Cyber Security Concepts  
-- Secure Application Design  
-- AI-assisted Security Systems  
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
-### 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/deepak-p-s
-- Email: deepakkrishnark@gmail.com
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeepakKrishna-DK&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakKrishna-DK&layout=compact&theme=tokyonight)
 
 ---
 
-⚡ *Learning, building, and preparing for top tech roles.*
+⚡ *Consistent learning. Real projects. Future-focused mindset.*
