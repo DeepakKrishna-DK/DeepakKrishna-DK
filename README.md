@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 About Me
-
+ 
 🚀 I’m passionate about learning, building, and solving real-world problems  
 🎓 Computer Science & Engineering Student (VTU)  
 🔐 Interested in Cyber Security, Web Development, AI, and Future Tech  
@@ -87,11 +87,9 @@
 
 ## 🚀 Projects
 
-- **Rudras - Cognitive Immunological Defense Firewall**
-- **HylexCrypt - Advanced Steganography and Cryptography Toolkit**
-- Firewall and security research with defense-oriented design
-- Secure data hiding, encryption, and system protection tools
-
+- **Rudras - Cognitive Immunological Defense Firewall** - Firewall and security research with defense-oriented design
+- **HylexCrypt - Advanced Steganography and Cryptography Toolkit** - Secure data hiding, encryption, and system protection tool
+- 
 ---
 
 ## 📚 Currently Exploring
@@ -107,65 +105,13 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkrishna-dk&show_icons=true&locale=en&layout=compact" alt="deepakkrishna-dk" />
+  <img src="https://github-readme-stats.vercel.app/api?username=deepakkrishna-dk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="deepakkrishna-dk" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakkrishna-dk&show_icons=true&locale=en" alt="deepakkrishna-dk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkrishna-dk&show_icons=true&theme=radical&layout=compact" alt="deepakkrishna-dk" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkrishna-dk&" alt="deepakkrishna-dk" />
-</p>  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0E75B6?style=for-the-badge&logo=hackthebox" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/Networks-1F6FEB?style=for-the-badge&logo=cisco" alt="Networks" />
-  <img src="https://img.shields.io/badge/Firewall-FF6B6B?style=for-the-badge&logo=shield&logoColor=white" alt="Firewall" />
-  <img src="https://img.shields.io/badge/IDS-2D9CDB?style=for-the-badge&logo=security" alt="IDS" />
-  <img src="https://img.shields.io/badge/IPS-9B51E0?style=for-the-badge&logo=security" alt="IPS" />
-  <img src="https://img.shields.io/badge/Frameworks-111111?style=for-the-badge&logo=checkmarx" alt="Frameworks" />
-  <img src="https://img.shields.io/badge/Cryptography-111111?style=for-the-badge&logo=lock&logoColor=white" alt="Cryptography" />
-  <img src="https://img.shields.io/badge/Steganography-2C3E50?style=for-the-badge&logo=security" alt="Steganography" />
-</p>
-
----
-
-## 🚀 Projects
-
-- **Rudras - Cognitive Immunological Defense Firewall** - Firewall and security research with defense-oriented design
-- **HylexCrypt - Advanced Steganography and Cryptography Toolkit** - Secure data hiding, encryption, and system protection tools
-
----
-
-## 📚 Currently Exploring
-
-- Advanced Cyber Security Concepts
-- Secure Application Design
-- AI-assisted Security Systems
-- Networks, Data Layers, and Security Innovations
-- IDS, IPS, firewall systems, and security frameworks
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkrishna-dk&show_icons=true&locale=en&layout=compact" alt="deepakkrishna-dk" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakkrishna-dk&show_icons=true&locale=en" alt="deepakkrishna-dk" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkrishna-dk&" alt="deepakkrishna-dk" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkrishna-dk&theme=radical" alt="deepakkrishna-dk" />
 </p>
