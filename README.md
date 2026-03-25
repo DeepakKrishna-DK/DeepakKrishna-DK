@@ -15,7 +15,6 @@
 
 ## 🌟 About Me
 
-👋 Hi, I'm **Deepak P S**  
 🚀 I’m passionate about learning, building, and solving real-world problems  
 🎓 Computer Science Engineering Student (VTU)  
 🔐 Interested in Cyber Security, Web Development, AI, and Future Tech  
