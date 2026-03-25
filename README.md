@@ -16,7 +16,7 @@
 ## 🌟 About Me
 
 🚀 I’m passionate about learning, building, and solving real-world problems  
-🎓 Computer Science Engineering Student (VTU)  
+🎓 Computer Science & Engineering Student (VTU)  
 🔐 Interested in Cyber Security, Web Development, AI, and Future Tech  
 🛡️ Focused on firewalls, IDS, IPS, secure systems, and defense frameworks  
 ⚡ Consistent learning. Real projects. Future-focused mindset.
