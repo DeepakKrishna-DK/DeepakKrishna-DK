@@ -105,13 +105,19 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepakkrishna-dk&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="deepakkrishna-dk" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=deepakkrishna-dk&show_icons=true&theme=radical" 
+    alt="deepakkrishna-dk stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkrishna-dk&show_icons=true&theme=radical&layout=compact" alt="deepakkrishna-dk" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakkrishna-dk&show_icons=true&theme=radical&layout=compact" 
+    alt="deepakkrishna-dk top languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkrishna-dk&theme=radical" alt="deepakkrishna-dk" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=deepakkrishna-dk&theme=radical" 
+    alt="deepakkrishna-dk streak" />
 </p>
