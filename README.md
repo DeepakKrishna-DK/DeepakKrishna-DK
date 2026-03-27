@@ -89,7 +89,6 @@
 
 - **Rudras - Cognitive Immunological Defense Firewall** - Firewall and security research with defense-oriented design
 - **HylexCrypt - Advanced Steganography and Cryptography Toolkit** - Secure data hiding, encryption, and system protection tool
-- 
 ---
 
 ## 📚 Currently Exploring
