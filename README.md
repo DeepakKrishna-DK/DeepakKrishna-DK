@@ -32,10 +32,14 @@
   <a href="mailto:deepakkrishnark@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
-  <a href="https://drive.google.com/file/d/1wqn3vhZvloQ8-2AkpHyiO_Fm2qFMPvAm/view?usp=sharing">
-    <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" alt="Resume" />
-  </a>
 </p>
+
+---
+
+## 📃 Resume
+<a href="https://drive.google.com/file/d/1wqn3vhZvloQ8-2AkpHyiO_Fm2qFMPvAm/view?usp=sharing">
+    <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" alt="Resume" />
+</a>
 
 ---
 
