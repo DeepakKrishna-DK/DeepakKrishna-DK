@@ -36,13 +36,6 @@
 
 ---
 
-## 📃 Resume
-<a href="https://drive.google.com/file/d/1C8mOhX4zWJMAdxBMPiN2P3gGaQG_TuzO/view?usp=sharing">
-    <img src="https://img.icons8.com/?size=100&id=23883&format=png&color=000000" alt="Resume" />
-</a>
-
----
-
 ## 💻 Tech Stack
 
 <p align="left">
